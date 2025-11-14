@@ -1,5 +1,5 @@
 # 3dDesigns
-The following is a list of 3d designs I have done on onshape. All of these have been verified to print and I have done so myself. If anything needs context, I'll give it.
+The following is a list of 3d designs I have done on onshape, or at least mostly on onshape, others will be noted. All of these have been verified to print and I have done so myself. If anything needs context, I'll give it.
 
 ## List goes most recent to oldest... for the most part...
 
