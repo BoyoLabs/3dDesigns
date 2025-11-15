@@ -3,7 +3,7 @@ The following is a list of 3d designs I have done on onshape, or at least mostly
 
 ### Note: Not all of my 3d designs are listed, these are just the ones I feel like sharing for one reason or another.
 
-## List goes most recent to oldest... for the most part...
+## List goes most recent to oldest -- for the most part...
 
 ### Chicken Feeder Scooper
 * link: https://cad.onshape.com/documents/a5cca7e37e2dd8abb3f824d0/w/863e332be49373dbd897bf05/e/a61951c76e2e318a34b82ab9
