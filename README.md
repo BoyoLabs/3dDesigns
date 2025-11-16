@@ -5,7 +5,7 @@ The following is a list of 3d designs I have done on onshape, or at least mostly
 
 ## List goes most recent to oldest -- for the most part...
 
-## Internal Fillet Gauge
+### Internal Fillet Gauge
 * link: https://cad.onshape.com/documents/98acdcad112416f463ce5886/w/1eb81947717ac70320099338/e/530974583ac6f96136c5c333
 * context: I really liked a fillet gauge I found, but the radii were all concave. Still very useful, but I needed a guage to try and estimate so that I can fit things inside of, say, an altoids tin. So this was my attempt at making the same thing as the concave one, but convex. This is my first attempt at it.
 
@@ -25,15 +25,15 @@ The following is a list of 3d designs I have done on onshape, or at least mostly
 * link: https://cad.onshape.com/documents/48c29ca7eac7ca2154846774/w/24cd887d58c44313221488df/e/7f7b87e6bd23bb92a1c63b98
 * context: I designed this steam deck and printed it on a steam deck (using cura) just for fun.
 
-## Snoopy
+### Snoopy
 * link: https://cad.onshape.com/documents/7fcda389d82fd0dbdac7ee14/w/6928de2ed10042d3de5d8829/e/254b9c5c0ddec1dc661ba710
 * context: a snoopy/great pumpkin table niknack
 
-## Bowsy Wowsy
+### Bowsy Wowsy
 * link: https://cad.onshape.com/documents/7bba470ba2af80a5af16c09c/w/d4d85df938093f89554d53cf/e/2fcf055950f17f3cfcae1fb1
 * context: a sign for my wifes tortoises outdoor house
 
-## Silverline Boats Emblem Press
+### Silverline Boats Emblem Press
 * link: https://cad.onshape.com/documents/b0b4098ebd51933b4358d1a6/w/0fdd257abcfcea04c98bd421/e/b4cfb701020541f60c3e0eb9
 * context: My father in law does vinyl and was restoring a Silverline boat, but wanted to get the emblem into the vinyl, so we gave it a shot and well what do you know? IT WORKED! He did *not* use a heat method. But thats all I really know.
 
