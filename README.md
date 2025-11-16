@@ -5,6 +5,10 @@ The following is a list of 3d designs I have done on onshape, or at least mostly
 
 ## List goes most recent to oldest -- for the most part...
 
+## Internal Fillet Gauge
+* link: https://cad.onshape.com/documents/98acdcad112416f463ce5886/w/1eb81947717ac70320099338/e/530974583ac6f96136c5c333
+* context: I really liked a fillet gauge I found, but the radii were all concave. Still very useful, but I needed a guage to try and estimate so that I can fit things inside of, say, an altoids tin. So this was my attempt at making the same thing as the concave one, but convex. This is my first attempt at it.
+
 ### Chicken Feeder Scooper
 * link: https://cad.onshape.com/documents/a5cca7e37e2dd8abb3f824d0/w/863e332be49373dbd897bf05/e/a61951c76e2e318a34b82ab9
 * context: needed a basic 1 cups worth scooper for our 1 legged indoor chickens. Should have made the chicken have one leg but oh well. Printed fine with no supports. A bit of bridging.
