@@ -7,7 +7,7 @@ The following is a list of 3d designs I have done on onshape, or at least mostly
 
 ### Mechanical Coin Pusher Penny Bank
 * link: https://cad.onshape.com/documents/8fcb0586a24b99181d8e3733/w/890bd85bb15b2df12367e99b/e/b33753f0b29bba32fbc97ee5
-* context: designed this for my wife for the holidays. This is the most complex design I have done and I am very excited about that fact!
+* context: designed this for my wife for the holidays. This is the most complex design I have done and I am very excited about that fact! To make this, however, I am including some 8x8" acrylic panels to the sides (so 2 of them) to complete it.
 
 ### Internal Fillet Gauge
 * link: https://cad.onshape.com/documents/98acdcad112416f463ce5886/w/1eb81947717ac70320099338/e/530974583ac6f96136c5c333
