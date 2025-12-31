@@ -3,6 +3,8 @@ The following is a list of 3d designs I have done on onshape, or at least mostly
 
 ### Note: Not all of my 3d designs are listed, these are just the ones I feel like sharing for one reason or another.
 
+### further note: to see a log of prints I have printed that were not designed by me, go here: https://github.com/BoyoLabs/3dDesigns/tree/main/prints
+
 ## List goes most recent to oldest -- for the most part...
 
 ### Caution Vinyl Stamp (For classic snowmobiles -- openSCAD)
