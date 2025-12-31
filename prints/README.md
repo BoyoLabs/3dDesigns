@@ -4,14 +4,13 @@ This folder and subsequent README file is to document prints I've done *not desi
 
 *This folder/readme is moreso for me to catalogue the work I've done, the most that it will ever give back to the community is a possible source of fixes for the niche set of files I have printed.*
 
+Newest at top
+
 ---
 
 ### Nothing here yet. Test entry.
 
 * link: thingiverse or makerworld link here
-  
 * Printed on elegoo neptune 3 pro with rock PLA. 25% infill no supports or raft.
 * printed successfully the first time.
-
----
 
