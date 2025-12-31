@@ -10,7 +10,8 @@ This folder and subsequent README file is to document prints I've done *not desi
 
 * link: thingiverse or makerworld link here
   
-* Printed on elegoo neptune 3 pro with rock PLA. 25% infill no supports or raft. It came out successful the first time.
+* Printed on elegoo neptune 3 pro with rock PLA. 25% infill no supports or raft.
+* printed successfully the first time.
 
 ---
 
