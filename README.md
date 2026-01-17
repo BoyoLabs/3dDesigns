@@ -7,6 +7,10 @@ The following is a list of 3d designs I have done on onshape, or at least mostly
 
 ## List goes most recent to oldest -- for the most part...
 
+### Egg SPiral
+* link: https://www.thingiverse.com/thing:7274329
+* context: openscad code generated with minor manual tweaks.
+
 ### Cute cat slurping raman
 
 * link: https://www.thingiverse.com/thing:7274320
