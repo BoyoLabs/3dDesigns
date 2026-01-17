@@ -1,4 +1,4 @@
-#PROVENANCE
+# PROVENANCE
 This provenance log formalizes the iterative synthesis of AI-augmented logic and human architectural oversight within a directed development workflow.
 
 session 1: https://gemini.google.com/share/d4ffb7aa9b39
