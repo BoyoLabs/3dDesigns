@@ -7,6 +7,11 @@ The following is a list of 3d designs I have done on onshape, or at least mostly
 
 ## List goes most recent to oldest -- for the most part...
 
+### Cute cat slurping raman
+
+* link: https://www.thingiverse.com/thing:7274320
+* context: AI generated with the prompt of: "a fat cat slurping some ramen with a flat base to set it down." On tripo3d.
+
 ### Caution Vinyl Stamp (For classic snowmobiles -- openSCAD)
 * link: https://github.com/BoyoLabs/3dDesigns/blob/main/CautionStamp.scad
 * context: Father in law restores snowmobiles, and does vinyl work. One thing he's been wanting to do is stamp the "caution" stamp. Well, the silverline one worked out well, and this one is for a holiday present.
