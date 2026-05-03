@@ -9,6 +9,7 @@ The following is a list of 3d designs I have done on onshape, or at least mostly
 
 ## drainage_mesh.scad
 * a small drainage mesh for potted plants. Normally, the drainage holes in pots make it so that soil falls out, this mesh can be scaled to meet a specific pots needs.
+* no link since its in this repo.
 
 ## DFence battle top
 * link: https://cad.onshape.com/documents/76c2e4216602c01ed8e9fe47/w/5291ae24fbfdce4749755ba6/e/26210db4631f573af50f3854
