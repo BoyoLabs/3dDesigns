@@ -7,6 +7,9 @@ The following is a list of 3d designs I have done on onshape, or at least mostly
 
 ## List goes most recent to oldest -- for the most part...
 
+## drainage_mesh.scad
+* a small drainage mesh for potted plants. Normally, the drainage holes in pots make it so that soil falls out, this mesh can be scaled to meet a specific pots needs.
+
 ## DFence battle top
 * link: https://cad.onshape.com/documents/76c2e4216602c01ed8e9fe47/w/5291ae24fbfdce4749755ba6/e/26210db4631f573af50f3854
 * context: I thought it might be fun to have a battle top engineering sort of deal. Hand spun tops only, no wider than 2 inches, metal parts vs no metal parts (basically weight.) Would be a great simple engineering challenge to play out. Have an arena all set up to try and play. Going to design a second top to test different strategies, but just to test, going to print 2 of these out and let em go against eachother.
