@@ -7,6 +7,9 @@ The following is a list of 3d designs I have done on onshape, or at least mostly
 
 ## List goes most recent to oldest -- for the most part...
 
+## kuksa.scad
+* a traditional drinking bowl/cup
+
 ## drainage_mesh.scad
 * a small drainage mesh for potted plants. Normally, the drainage holes in pots make it so that soil falls out, this mesh can be scaled to meet a specific pots needs.
 * no link since its in this repo.
