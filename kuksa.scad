@@ -11,6 +11,8 @@
 // The body extends into -z. Uncomment the mirror() near the bottom of
 // the file if your slicer prefers all-positive Z geometry.
 
+// by Boyo Labs
+
 $fn = 140;
 
 // =========================
