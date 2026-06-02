@@ -1,4 +1,7 @@
 # 3dDesigns
+
+DEPRICATED -- 3d designs will now be in the current iteration of prod repos.
+
 The following is a list of 3d designs I have done on onshape, or at least mostly on onshape, others will be noted. All of these have been verified to print and I have done so myself. If anything needs context, I'll give it.
 
 ### Note: Not all of my 3d designs are listed, these are just the ones I feel like sharing for one reason or another.
